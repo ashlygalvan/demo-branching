@@ -9,7 +9,7 @@ public class UnitTest1
     }
     
     [Fact]
-    public void FalseIsFalse()
+    public void FalseIsFalsesIsTrue()
     {
         //this is uhh
         Assert.False(!true);
